@@ -1,4 +1,4 @@
-# WELCOME!!!
+# WELCOME ALL!!!
 
 Just a test repository for teaching LOG3000.
 
