@@ -41,8 +41,8 @@ void AverageTest::test3()
 
 void AverageTest::test4()
 {
-  /*int values[]={-3,-2,-4};
-    CPPUNIT_ASSERT_EQUAL(-3.0, average(values,3));*/
+  int values[]={-3,-2,-4};
+  CPPUNIT_ASSERT_EQUAL(-3.0, average(values,3));
 }
 
 
